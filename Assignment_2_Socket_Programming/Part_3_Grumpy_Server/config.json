@@ -1,0 +1,10 @@
+{
+    "server_ip": "10.0.0.202",
+    "server_port": 8096,
+    "k": 20,
+    "p": 6,
+    "input_file": "words.txt",
+    "num_clients": 4,
+    "slot_time": 4
+}
+  

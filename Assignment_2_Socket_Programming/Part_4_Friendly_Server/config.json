@@ -1,0 +1,9 @@
+{
+    "server_ip": "10.0.4.237",
+    "server_port": 9073,
+    "k": 10,
+    "p": 1,
+    "input_file": "words.txt",
+    "num_clients": 32
+}
+  
